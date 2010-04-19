@@ -1,6 +1,6 @@
 ! Copyright (C) 2009 Michael Stephens
 ! See http://factorcode.org/license.txt for BSD license.
-USING: kernel sequences arrays factor-problems.problem9 ;
+USING: kernel sequences arrays factor-problems.problem09 ;
 IN: factor-problems.problem11
 
 ! Problem 11: Modified run-length encoding.

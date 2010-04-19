@@ -1,7 +1,7 @@
 ! Copyright (C) 2009 Michael Stephens
 ! See http://factorcode.org/license.txt for BSD license.
-USING: tools.test factor-problems.problem6 ;
-IN: factor-problems.problem6.tests
+USING: tools.test factor-problems.problem06 ;
+IN: factor-problems.problem06.tests
 
 [ t ] [ "racecar" palindrome? ] unit-test
 [ f ] [ "palindrome" palindrome? ] unit-test
